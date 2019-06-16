@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsonp/javax.json-api-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsonp/javax.json-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
